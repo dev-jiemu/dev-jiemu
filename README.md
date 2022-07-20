@@ -31,7 +31,7 @@
 
 
 <div align="center">
-<h2> 💾 Potfolio Repository List 💾 </h2>
+<h2> 💾 Portfolio Repository List 💾 </h2>
 <table>
   <tr>
     <th>📝 No. </th>

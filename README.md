@@ -50,7 +50,7 @@
   <tr>
     <td rowspan="2">2</td>
     <td rowspan="2">[Untitled] General shopping mall Project</td>
-    <td>WEB</td>
+    <td>WEB Server (Client) </td>
     <td><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonAWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
@@ -58,7 +58,7 @@
     <td></td>
   </tr>
   <tr>
-    <td>WAS(API Server)</td>
+    <td>API Server (Server) </td>
     <td><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonAWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
     <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/>

@@ -72,7 +72,7 @@
     <td>[Practice] SessionGuard</td>
     <td>Back</td>
     <td></td>
-    <td></td>
+    <td><a href="https://github.com/jiyekim-rebi/session-guard">Session-Guard</td>
   </tr>
 </table>
 

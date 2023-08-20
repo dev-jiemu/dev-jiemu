@@ -70,7 +70,7 @@
     <tr>
     <td>3</td>
     <td>[Practice] SessionGuard</td>
-    <td>Back</td>
+    <td>Web, API</td>
     <td></td>
     <td><a href="https://github.com/jiyekim-rebi/session-guard">Session-Guard</td>
   </tr>

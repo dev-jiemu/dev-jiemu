@@ -48,7 +48,7 @@
 
 2. **[Viz-Flows (2024)](https://github.com/dev-jiemu/vue3-viz-flows)**  
    🔍 서버 시나리오 시각화 프로젝트  
-   *기술 스택:* Vue 3, vue-flow, Next.js, TypeScript
+   *기술 스택:* Vue 3, vue-flow, Next.js(V1), TypeScript(V2), JavaScript(V1)
 
 3. **[Stop Line Monitor (2025)](https://github.com/dev-jiemu/stop-line-monitor)**  
    🚌 공공데이터 API를 활용한 수도권 버스정보 모니터링 프로젝트  

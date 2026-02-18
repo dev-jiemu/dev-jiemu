@@ -54,8 +54,8 @@
    🚌 공공데이터 API를 활용한 수도권 버스정보 모니터링 프로젝트  
    *기술 스택:* TypeScript, Nest.js, Public APIs
 
-4. **[distributed-chat-service (2026)](https://github.com/dev-jiemu/distributed-chat-service)**
-    💬 채팅서버 만들기 : 대용량 처리 환경에서의 채팅시스템
+4. **[distributed-chat-service (2026)](https://github.com/dev-jiemu/distributed-chat-service)** <br/>
+    💬 채팅서버 만들기 : 대용량 처리 환경에서의 채팅시스템 <br/>
     *기술 스택:* Java 17 (Spring), Redis, RabbitMQ, WebSocket(STOMP)
 
 <br>

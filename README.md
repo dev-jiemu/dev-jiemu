@@ -41,22 +41,32 @@
     <h2>📂 Portfolio Projects 📂</h2>
 </div>
 
-### 개인 작업용 포트폴리오
+### 개인 연습용 포트폴리오
 1. **[Chococo (2020)](https://github.com/dev-jiemu/Chococo)**  
    🛒 미니어처 판매 쇼핑몰 프로젝트  
-   *기술 스택:* JavaScript, jQuery, CSS3, Spring, Oracle
+   *Stack:* JavaScript, jQuery, CSS3, Spring, Oracle
 
 2. **[Viz-Flows (2024)](https://github.com/dev-jiemu/vue3-viz-flows)**  
    🔍 서버 시나리오 시각화 프로젝트  
-   *기술 스택:* Vue 3, vue-flow, Nest.js(V2), TypeScript(V2), JavaScript(V1)
+   *Stack:* Vue 3, vue-flow, Nest.js(V2), TypeScript(V2), JavaScript(V1)
 
 3. **[Stop Line Monitor (2025)](https://github.com/dev-jiemu/stop-line-monitor)**  
    🚌 공공데이터 API를 활용한 수도권 버스정보 모니터링 프로젝트  
-   *기술 스택:* TypeScript, Nest.js, Public APIs
+   *Stack:* TypeScript, Nest.js, Public APIs
 
 4. **[distributed-chat-service (2026)](https://github.com/dev-jiemu/distributed-chat-service)** <br/>
     💬 채팅서버 만들기 : 대용량 처리 환경에서의 채팅시스템 <br/>
-    *기술 스택:* Java 17 (Spring), Redis, RabbitMQ, WebSocket(STOMP)
+    *Stack:* Java 17 (Spring), Redis, RabbitMQ, WebSocket(STOMP)
+
+5. **[url-shortener-ts](https://github.com/dev-jiemu/url-shortener-ts)
+   🔗 Short URL 만들어서 포워딩 하는 서버 : typescript 연습용
+   *Stack:* Fastify (typescript), PostgreSQL, BullMQ
+
+
+### else
+1. **[live-stream-switcher-poc](https://github.com/dev-jiemu/live-stream-switcher-poc)
+   같은 스트림 방송을 판단하고 상황에따라 포워딩 하는 모듈 poc 코드 (연습용)
+   
 
 <br>
 

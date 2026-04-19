@@ -58,13 +58,14 @@
     💬 채팅서버 만들기 : 대용량 처리 환경에서의 채팅시스템 <br/>
     *Stack:* Java 17 (Spring), Redis, RabbitMQ, WebSocket(STOMP)
 
-5. **[url-shortener-ts](https://github.com/dev-jiemu/url-shortener-ts)
+5. **[url-shortener-ts](https://github.com/dev-jiemu/url-shortener-ts)**
    🔗 Short URL 만들어서 포워딩 하는 서버 : typescript 연습용
    *Stack:* Fastify (typescript), PostgreSQL, BullMQ
-
+   
+<br>
 
 ### else
-1. **[live-stream-switcher-poc](https://github.com/dev-jiemu/live-stream-switcher-poc)
+1. **[live-stream-switcher-poc](https://github.com/dev-jiemu/live-stream-switcher-poc)**
    같은 스트림 방송을 판단하고 상황에따라 포워딩 하는 모듈 poc 코드 (연습용)
    
 

@@ -62,8 +62,6 @@
    🔗 Short URL 만들어서 포워딩 하는 서버 : typescript 연습용
    *Stack:* Fastify (typescript), PostgreSQL, BullMQ
    
-<br>
-
 ### else
 1. **[live-stream-switcher-poc](https://github.com/dev-jiemu/live-stream-switcher-poc)**
    같은 스트림 방송을 판단하고 상황에따라 포워딩 하는 모듈 poc 코드 (연습용)
